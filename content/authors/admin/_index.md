@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Investigador Principal
+  - Investigador principal
 ---
 
 Investigador adjunto de la línea Las Dimensiones Socioeconómicas del Conflicto de COES, Director del Observatorio de Huelgas Laborales, Profesor Asistente del Departamento de Sociología de la Universidad de Chile e Investigador Principal de Fábrica de Datos Laborales. Sociólogo de la Universidad de Chile, Magíster en Sociología de la Universidad Católica de Chile, Doctor en Sociología de la Universidad de California (San Diego, USA). Está a cargo del Fondecyt de iniciación N°11190229. *“Determinantes institucionales y políticos del conflicto entre empresarios y trabajadores. Los casos de Argentina y Chile en perspectiva comparada”*.
