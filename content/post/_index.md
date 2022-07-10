@@ -1,5 +1,5 @@
 ---
-title: últimas entradas
+title: Últimas entradas
 
 # Listing view
 view: compact
