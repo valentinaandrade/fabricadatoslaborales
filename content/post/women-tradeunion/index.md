@@ -40,7 +40,7 @@ Con la globalización las mujeres no perderían el impulso asociativo, y podremo
 Estudios en Chile habían mostrado que la tendencia de sindicalización femenina iba en aumento, pero este positivo escenario se opacaba con que de igual forma las mujeres están subrepresentadas  en cargos de dirigencia (Riquelme & Abarca, 2015). 
 
 <center>
-<iframe src="grafico_chile" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
+<iframe src="https://fabricadedatoslaborales.netlify.app/post/20-12-01-wowchemy-prize/map.html" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
 </center>
 
 Más allá de ese contexto, las cifras más recientes en nuestro país permiten mostrar que a pesar de que la brecha salarial de género iba en aumento, es decir, que hombres ganaban en promedio más que las mujeres, ese dato se comienza a revertir de la mano con la feminización de la sindicalización (Grafico 2) ¿Existirá alguna relación entre estos dos fenómenos? 
