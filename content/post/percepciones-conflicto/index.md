@@ -1,6 +1,6 @@
 ---
 title: "Percepciones de conflicto y confianza en el empresariado: Chile en perspectiva comparada "
-author: "Pablo Pérez Ahumada
+author: "Pablo Pérez Ahumada"
 date: '2020-12-01'
 output:
   html_document: default
