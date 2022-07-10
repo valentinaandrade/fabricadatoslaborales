@@ -1,12 +1,9 @@
 ---
-title: Las mujeres y el trabajo asalariado. Claves sobre su participación sindical 
-date: 2020-12-01
-author: Valentina Andrade
+title: "Las mujeres y el trabajo asalariado. Claves sobre su participación sindical"
+author: "Valentina Andrade"
+date: '2020-12-01'
 output:
-  blogdown::html_page:
-    toc: false
-# draft: true
-runtime: shiny
+  html_document: default
 ---
 
 
