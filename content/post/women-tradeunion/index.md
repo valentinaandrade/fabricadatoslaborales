@@ -19,7 +19,7 @@ Recientes cifras en Chile mostraron no solo un aumento en la densidad sindical d
 ![](map.html)
 
 <center>
-<iframe src="map" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
+<iframe src="https://fabricadedatoslaborales.netlify.app/post/women-tradeunion/map.html" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
 </center>
 
 Título: Feminización de la sindicalización en el mundo
