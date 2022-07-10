@@ -1,5 +1,5 @@
 ---
-title: Las mujeres y el trabajo asalariado: claves sobre su participación sindical 
+title: Las mujeres y el trabajo asalariado. Claves sobre su participación sindical 
 date: 2020-12-01
 ---
 
