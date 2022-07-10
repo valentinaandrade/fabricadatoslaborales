@@ -23,7 +23,7 @@ Nota: Se consideró el último dato disponible de sindicalización por país.
 
 A inicios del siglo XX, en la mayoría de los países los hombres estaban más organizados que las mujeres. Sin embargo, ya con los cambios de la sociedad industrial, y con las mujeres cada vez más vinculadas a las fábricas (ILO, 2010), estas pusieron en marcha orgánicas para defender sus derechos: equidad salarial, jornadas parciales que les permitiera conciliar sus empleos con el trabajo doméstico y seguridad social. Un ejemplo de ello son congresos como International Congress of Workers Women (ICWW) en 1919 donde participaron países como Argentina, Bélgica, Canadá, Checoslovaquia, Francia, Gran Bretaña, India, Italia, Noruega, Polonia y Suecia, Cuba, Dinamarca, Japón, Países Bajos, Serbia, España y Suiza (Lubin & Winslow, 1990, p. 26). 
 
-![](gif1.1.gif)
+
 
 Con la globalización las mujeres no perderían el impulso asociativo, y podremos notar en el gráfico 2  que la tendencia de feminización se extiende cada vez en más países: Inglaterra, Suecia, Noruega, Estonia, Finlandia, Canadá, Australia, Rusia, Islandia, Nueva Zelanda, Dinamarca, México, Brasil y Chile son algunos ejemplos de países. Sin embargo, muchas veces de la mano con un descenso generalizado de la sindicalización (Haile, 2017).
 
