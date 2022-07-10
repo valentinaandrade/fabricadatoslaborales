@@ -15,6 +15,8 @@ La densidad sindical (o sindicalización) es una métrica que nos dice que porce
 Más mujeres en los sindicatos
 Recientes cifras en Chile mostraron no solo un aumento en la densidad sindical de mujeres, sino que una feminización de la sindicalización. Esto quiere decir que la proporción de sindicalización femenina supera a la masculina. Lo más interesante de ello es que no es un caso excepcional (Mapa1 ): 27 de los 45 países estudiados la sindicalización femenina ha superado la masculina, 17 sigue masculinizada la participación sindical y solo en Sudáfrica es equitativa la proporción. 
 
+![](map.html)
+
 <center>
 <iframe src="map" width="576" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen ></iframe>
 </center>
