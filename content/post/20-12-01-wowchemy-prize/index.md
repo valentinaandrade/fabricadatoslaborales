@@ -2,6 +2,7 @@
 title: Las mujeres y el trabajo asalariado. Claves sobre su participación sindical 
 date: 2020-12-01
 author: Valentina Andrade
+output: html_document
 ---
 
 
