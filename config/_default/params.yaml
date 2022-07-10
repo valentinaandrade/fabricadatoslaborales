@@ -9,7 +9,7 @@ appearance:
   theme_day: minimal
   theme_night:
   font: native
-  font_size: L
+  font_size: M
 
 # SEO
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} valentinaandrade. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -55,7 +55,7 @@ footer:
 locale:
   date_format: 'Jan 2, 2006'
   time_format: '3:04 PM'
-  address_format: en-us
+  address_format: es
 
 # Site features
 
