@@ -1,37 +1,32 @@
 ---
 # Display name
-title: Pablo Pérez Ahumada
+title: Valentina Andrade
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Profesor Asistente
+role: Asistente de Investigación
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de Chile
+  - name: Pontificia Universidad Católica de Chile
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Investigador adjunto de la línea Las Dimensiones Socioeconómicas del Conflicto de COES, Director del Observatorio de Huelgas Laborales, Profesor Asistente del Departamento de Sociología de la Universidad de Chile e Investigador Principal de Fábrica de Datos Laborales. Sociólogo de la Universidad de Chile, Magíster en Sociología de la Universidad Católica de Chile, Doctor en Sociología de la Universidad de California (San Diego, USA). Está a cargo del Fondecyt de iniciación N°11190229. *“Determinantes institucionales y políticos del conflicto entre empresarios y trabajadores. Los casos de Argentina y Chile en perspectiva comparada”*. 
+bio: Estudiante patrocinada COES en el Magíster en Economía de la Pontificia Universidad Católica de Chile. Cuenta con la tutoría de Pablo Pérez Ahumada en su proyecto de tesis *“La feminización del conflicto laboral. Un análisis comparado y temporal a nivel mundial”* en la línea Las Dimensiones Socioeconómicas del Conflicto. Socióloga por la Universidad de Chile. Actualmente se desempeña como académica colaboradora en el Departamento de Sociología, Universidad Alberto Hurtado. También es asistente de investigación en la Fábrica de Datos Laborales, el Fondecyt de Iniciación N°11190229. *“Determinantes institucionales y políticos del conflicto entre empresarios y trabajadores. Los casos de Argentina y Chile en perspectiva comparada”*, a cargo de Pablo Pérez Ahumada; 
 
 interests:
-  - Clases sociales
-  - Desigualdad económica
-  - Acción colectiva
+  - Economía Laboral
+  - Econometría
 
 education:
   courses:
-    - course: PhD en Sociología
-      institution: Universidad de California (San Diego, USA)
-      year: 2012
-    - course: Magíster en Sociología
-      institution: Pontificia Universidad Católica de Chile
-      year: 2009
+    - course: Magister en Economía
+      institution: Pontifica Universidad Católica de Chile
     - course: Sociología
       institution: Universidad de Chile
-      year: 2008
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -40,16 +35,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:po.perez.a@gmail.com'
+    link: 'mailto:vandrade@uc.cl'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/pablo_perez_a
+    link: https://twitter.com/valentiandrade
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=I-bh4HoAAAAJ&hl=es&oi=ao
+    link: https://scholar.google.com/citations?user=pj-D9-oAAAAJ&hl=es
   - icon: github
     icon_pack: fab
-    link: https://github.com/Pablo-Perez-Ahumada
+    link: https://github.com/valentinaandrade
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,7 +60,5 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Investigador principal
+  - Asistente de investigación
 ---
-
-Investigador adjunto de la línea Las Dimensiones Socioeconómicas del Conflicto de COES, Director del Observatorio de Huelgas Laborales, Profesor Asistente del Departamento de Sociología de la Universidad de Chile e Investigador Principal de Fábrica de Datos Laborales. Sociólogo de la Universidad de Chile, Magíster en Sociología de la Universidad Católica de Chile, Doctor en Sociología de la Universidad de California (San Diego, USA). Está a cargo del Fondecyt de iniciación N°11190229. *“Determinantes institucionales y políticos del conflicto entre empresarios y trabajadores. Los casos de Argentina y Chile en perspectiva comparada”*.
