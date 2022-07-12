@@ -1,7 +1,11 @@
 ---
 title: 'Informe 2020 Observatorio de Huelgas Laborales (OHL)'
 authors:
+  - Francisca Gutierrez
   - admin
+  - Rodrigo Medel
+  - Diego Velásquez
+  - Domingo Pérez
 date: '2021-04-07T00:00:00Z'
 doi: ''
 
