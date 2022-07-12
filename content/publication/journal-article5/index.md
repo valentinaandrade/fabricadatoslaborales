@@ -1,13 +1,14 @@
 ---
-title: 'Why Is It So Difficult to Reform Collective Labour Law? Associational Power and Policy Continuity in Chile in Comparative Perspective'
+title: 'The Service Industry, Private-sector Employment and Social Class in Chile: New Developments from Labour Process Theory'
 authors:
   - admin
+  - 'Lucas Cifuentes'
 author_notes:
-date: '2020-10-14T00:00:00Z'
+date: '2020-05-14T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-10-14T00:00:00Z'
+publishDate: '2020-05-14T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,25 +17,26 @@ publishDate: '2020-10-14T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Latin American Studies*'
+publication: '*Critical Sociology*'
 publication_short: ''
 
-abstract: Since Chile returned to democracy in 1990, centre-left governments have tried to reform the provisions on collective bargaining, strikes and unions established by the Pinochet dictatorship. Between 2015 and 2016 President Michelle Bachelet made the latest attempt to reform them. Despite favourable conditions, the changes were modest. This article explains why this is so. Drawing upon the notion of ‘associational power’ and through comparisons with labour reforms in Argentina, Brazil and Uruguay, this article suggests that the imbalance between workers’ and employers’ collective power is key for explaining why pro-labour reforms fail.
+abstract: 'For decades, analysts believed that the expansion of the service sector would lead to a ‘middle-class’ society. By the late 20th century, class analysts and labour process scholars called into question this argument. They showed that distinctions such as that between ‘white-collar’ and ‘blue-collar’ work failed to capture the dynamics of control and exploitation within production. Nevertheless, in Chile and other parts of Latin America, research still contends that the expansion of employment in private-sector service activities accelerated the consolidation of a ‘new middle class’. This article challenges this idea. Drawing upon insights from neo-Marxist class analysis and labour process theory, the article compares the perceptions of control over the labour process of workers from different industries, employment sectors and class locations. Quantitative and qualitative evidence suggest that the most important conclusions of recent research are misleading.'
 
 
 tags:
-  - Collective labour law
-  - Labour reform
-  - Associational power
-  - Employers
-  - Workers
-  - Chile
+   - Chile
+   - Employment sectors
+   - Labour process
+   - Service industry
+   - Social class
+   - Sociology
+   - Work control
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.cambridge.org/core/journals/journal-of-latin-american-studies/article/abs/why-is-it-so-difficult-to-reform-collective-labour-law-associational-power-and-policy-continuity-in-chile-in-comparative-perspective/8FDB12EAC98AA62B9C70639289560066
+url_pdf: https://journals.sagepub.com/doi/abs/10.1177/0896920519842372
 url_code: ''
 url_dataset: ''
 url_poster: ''
