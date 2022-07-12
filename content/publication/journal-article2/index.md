@@ -1,16 +1,16 @@
 ---
-title: 'An example journal article'
+title: 'Class identity in times of social mobilization and labor union revitalization: Evidence from the case of Chile (2009–2019)'
 authors:
   - admin
-  - Robert Ford
+  - vale
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
+date: '2021-11-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-11-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,22 +19,26 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Current Sociology*'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Over the past decade, there has been a revival of social protest and labor union activity in Chile. In this article, we examine the effects of this phenomenon to analyze its influence on working-class identity. Using International Social Survey Programme surveys from 2009 and 2019, we investigate whether class location and union membership affect people’s subjective identification with the working class and how that effect may have changed over the decade. Our findings suggest that subjects who are situated in a ‘subordinated’ class position (unskilled workers or informal self-employed workers) are more likely to identify with the working class compared to subjects located in a privileged class position (employers, experts, or managers). However, surprisingly, our analysis does not indicate that working-class identity is reinforced by union membership. In addition, our results do not demonstrate that the effect of class or union membership has strengthened over the past decade. At the end of this article, we offer some possible explanations for these findings.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Source Themes
+  - Chile
+  - Neoliberalism
+  - Social class
+  - Social mobilization
+  - Union membership
+  - Working
+  - Class identity
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://journals.sagepub.com/doi/abs/10.1177/00113921211056052
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 
   focal_point: ''
   preview_only: false
 
@@ -65,8 +69,3 @@ projects: []
 slides:
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
