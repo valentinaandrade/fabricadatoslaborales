@@ -2,7 +2,6 @@
 title: 'Why Is It So Difficult to Reform Collective Labour Law? Associational Power and Policy Continuity in Chile in Comparative Perspective'
 authors:
   - admin
-author_notes:
 date: '2020-10-14T00:00:00Z'
 doi: ''
 
