@@ -14,7 +14,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 'Titulado en Sociología, Universidad Alberto Hurtado. Tutor Clínica de AnálisisEstadístico UAH. Experiencia en investigación e implementación de instrumentos metodológicos(cualitativos y cuantitativos) de recolección de datos.' 
+bio: 'Titulado en Sociología, Universidad Alberto Hurtado. Tutor Clínica de Análisis Estadístico UAH. Experiencia en investigación e implementación de instrumentos metodológicos (cualitativos y cuantitativos) de recolección de datos.' 
 
 interests:
   - Estudios Laborales
