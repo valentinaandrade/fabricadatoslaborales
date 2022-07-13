@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: 'https://www.cambridge.org/core/journals/journal-of-latin-american-studies/article/abs/why-is-it-so-difficult-to-reform-collective-labour-law-associational-power-and-policy-continuity-in-chile-in-comparative-perspective/8FDB12EAC98AA62B9C70639289560066'
 url_code: ''
 url_dataset: ''
 url_poster: ''
