@@ -25,7 +25,7 @@ education:
   courses:
     - course: PhD en Sociología
       institution: Universidad Alberto Hurtado
-      year: (aún en curso)
+      year: 2022
     - course: Magíster en Sociología
       institution: Universidad Alberto Hurtado
       year: 2021
