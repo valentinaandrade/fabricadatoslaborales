@@ -1,13 +1,12 @@
 ---
-title: 'The Service Industry, Private-sector Employment and Social Class in Chile: New Developments from Labour Process Theory'
+title: 'Social classes, economic sectors and changes in the Chilean social structure, 1992 and 2013'
 authors:
   - admin
-  - 'Lucas Cifuentes'
-date: '2020-05-14T00:00:00Z'
+date: '2018-12-29T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-05-14T00:00:00Z'
+publishDate: '2018-12-29T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,26 +15,23 @@ publishDate: '2020-05-14T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Critical Sociology*'
+publication: '*CEPAL*'
 publication_short: ''
 
-abstract: 'For decades, analysts believed that the expansion of the service sector would lead to a ‘middle-class’ society. By the late 20th century, class analysts and labour process scholars called into question this argument. They showed that distinctions such as that between ‘white-collar’ and ‘blue-collar’ work failed to capture the dynamics of control and exploitation within production. Nevertheless, in Chile and other parts of Latin America, research still contends that the expansion of employment in private-sector service activities accelerated the consolidation of a ‘new middle class’. This article challenges this idea. Drawing upon insights from neo-Marxist class analysis and labour process theory, the article compares the perceptions of control over the labour process of workers from different industries, employment sectors and class locations. Quantitative and qualitative evidence suggest that the most important conclusions of recent research are misleading.'
+abstract: 'For several decades the transformation of the class structure in advanced capitalist societies was analysed through the lens of two opposing theses. A variety of analysts highlighted the advent of a post-industrial, post-capitalist or programmed society, which meant the consolidation of a large middle class that was defined as one of the main classes of capitalism in the second half of the twentieth century (Bell, 1973; Dahrendorf, 1959; Touraine, 1971). These authors interpreted the phenomenon as the result of the de-proletarization of the post-industrial work process; in other words, as a consequence of how that process started to require a more skilled labour force, with higher levels of technical knowledge and autonomy. Some even claimed that the transformations in question would give rise to a “new class” that would significantly alter the foundational patterns of wage labour (Mallet, 1975; Touraine, 1971).
+In contrast to this perspective, other analysts projected an image of capitalist development centred on the concept of “proletarianization”. Starting with the famous study by Harry Braverman (1998), many argued that the transformation of the class structure in the second half of the twentieth century instead expressed a tendency for wage earners to lose control over the work process, along with the development of highly routine work subject to “top-down” control (Wright and Singelmann, 1982).'
 
 
 tags:
+   - Social classes
    - Chile
-   - Employment sectors
-   - Labour process
-   - Service industry
-   - Social class
-   - Sociology
-   - Work control
+   - Economic sectors
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.sagepub.com/doi/abs/10.1177/0896920519842372
+url_pdf: 'https://books.google.cl/books?hl=en&lr=&id=QwiwDwAAQBAJ&oi=fnd&pg=PA155&dq=info:PGS3Ld56qW4J:scholar.google.com&ots=8qvXYuE1_v&sig=kUfNWvL53pFdP0AftNDqDLCSQdc&redir_esc=y#v=onepage&q&f=false'
 url_code: ''
 url_dataset: ''
 url_poster: ''
