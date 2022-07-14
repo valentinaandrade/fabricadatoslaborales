@@ -1,6 +1,5 @@
 ---
-title: Sindicatos y negociación colectiva frente a la pandemia
-en Argentina
+title: Sindicatos y negociación colectiva frente a la pandemiaen Argentina
 
 event: Seminarios 
 
