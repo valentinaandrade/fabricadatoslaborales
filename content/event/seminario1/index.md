@@ -34,7 +34,7 @@ featured: false
 url_code: ''
 url_pdf: 'Seminario-Sindicalismo, Relaciones Laborales y Derechos Colectivos.pdf'
 url_slides: 'Presentacion-FJNeira.pptx'
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=jiYuz39Csug'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
