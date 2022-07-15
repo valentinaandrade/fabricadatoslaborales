@@ -5,7 +5,12 @@
 
 main:
   - name: Equipo
+    identifier: tags
     url: people
+    weight: 10
+  - name: ¿Qué es Fábrica de Datos Laborales?
+    identifier: tags
+    url: somos
     weight: 10
   - name: Entradas
     url: post
