@@ -11,7 +11,7 @@ main:
   - name: ¿Qué es Fábrica de Datos Laborales?
     identifier: tags
     url: somos
-    weight: 10
+    weight: 20
   - name: Entradas
     url: post
     weight: 20
