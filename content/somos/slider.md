@@ -23,25 +23,17 @@ content:
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Construcción de datos a nivel mundial
+      content: 'Desarrollamos una base única que permite comparar relaciones laborales en el tiempo para más de 60 países'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
-      align: right
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        media: welcome.jpg
+        media: contact2.jpg
       link:
-        icon: graduation-cap
+        icon: globe
         icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        text: Más sobre los datos
+        url: https://fabrica-datos-laborales.github.io/fdl-data/index.html#presentation
 ---
