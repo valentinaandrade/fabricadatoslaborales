@@ -10,7 +10,7 @@ design:
 
 # El proyecto
 
-Fábrica de Datos Laborales es un portal gratis y de acceso para todos/as. Esta página se desarrolla en el marco del proyecto FONDECYT N°11190229 "Determinantes institucionales y políticos del conflicto entre empresarios y trabajadores: los casos de Argentina y Chile en perspectiva comparada", dirigido por Pablo Pérez Ahumada, profesor asistente del departamento de sociología de la Universidad Alberto Hurtado (UAH) e investigador asociado al Centro de Estudios del Conflicto y Cohesión Social (COES). 
+Fábrica de Datos Laborales es un portal gratis y de acceso para todos/as. Esta página se desarrolla en el marco del proyecto FONDECYT N°11190229 **"Determinantes institucionales y políticos del conflicto entre empresarios y trabajadores: los casos de Argentina y Chile en perspectiva comparada"**, dirigido por Pablo Pérez Ahumada, profesor asistente del departamento de sociología de la Universidad de Chile(FACSO-UCH) e investigador asociado al Centro de Estudios del Conflicto y Cohesión Social (COES). 
 
 El objetivo del proyecto es explicar las variaciones en el conflicto entre trabajadores y empresarios en Argentina y Chile. Para ello, se desarrolla un análisis comparado de los factores institucionales (regulaciones laborales) y políticos (relación entre partidos y movimiento sindical) que lo configuran.
 
