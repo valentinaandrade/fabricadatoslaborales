@@ -22,7 +22,7 @@ content:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: cubes2.jpg
       link:
       icon: globe
       icon_pack: fas
