@@ -15,8 +15,8 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 👇🏼 Conoce más sobre el proyecto FONDECYT
+      content: Mira en lo que estamos trabajando últimamente...
       align: center
       background:
         position: right
