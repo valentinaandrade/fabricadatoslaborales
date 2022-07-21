@@ -59,7 +59,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ayudantes de Investigación
+  - Ayudantes
 ---
 
 Licenciada en Sociología. Ayudante de Investigación en FONDECYT en N°11190229. *“Determinantes institucionales y políticos del conflicto entre empresarios y trabajadores. Los casos de Argentina y Chile en perspectiva comparada”*.
