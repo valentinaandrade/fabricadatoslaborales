@@ -24,10 +24,10 @@ content:
         brightness: 0.7
         media: cubes2.jpg
       link:
-      icon: globe
-      icon_pack: fas
-      text: Descargar datos
-      url: https://github.com/fabrica-datos-laborales/fdl-data/raw/main/output/data/fdl.RData
+        icon: globe
+        icon_pack: fas
+        text: Descargar datos
+        url: https://github.com/fabrica-datos-laborales/fdl-data/raw/main/output/data/fdl.RData
     - title: Libro de Códigos
       content: 'Información sobre las variables de FDL data base'
       align: left
