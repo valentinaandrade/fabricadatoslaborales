@@ -10,7 +10,7 @@ main:
     weight: 10
   - name: ¿Qué es Fábrica de Datos Laborales?
     identifier: tags
-    url: somos
+    url: tour2
     weight: 20
   - name: Entradas
     url: post
