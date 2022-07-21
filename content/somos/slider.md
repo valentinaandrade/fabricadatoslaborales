@@ -30,7 +30,7 @@ content:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact2.jpg
+        media: contact.jpg
       link:
         icon: globe
         icon_pack: fas
