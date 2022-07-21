@@ -15,16 +15,21 @@ design:
 
 content:
   slides:
-    - title: 👇🏼 Conoce más sobre el proyecto FONDECYT
-      content: Mira en lo que estamos trabajando últimamente...
+    - title: 👇🏼 FDL data base
+      content: Base de datos a nivel mundial y comparado
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
         media: coders.jpg
-    - title: Construcción de datos a nivel mundial
-      content: 'Desarrollamos una base única que permite comparar relaciones laborales en el tiempo para más de 60 países'
+      link:
+      icon: globe
+      icon_pack: fas
+      text: Descargar datos
+      url: https://github.com/fabrica-datos-laborales/fdl-data/raw/main/output/data/fdl.RData
+    - title: Libro de Códigos
+      content: 'Información sobre las variables de FDL data base'
       align: left
       background:
         position: center
