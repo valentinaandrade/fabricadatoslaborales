@@ -43,7 +43,7 @@ featured: false
 url_code: 'https://github.com/fabrica-datos-laborales/taller_fdl'
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://zoom.us/rec/play/7aWrYMWNXue4BpMXqyzi_h2_7kbTQzQrUgrrsaIpbpH38QFoHvuy8IM8mQBtHi6PZ_6XsaC5joyvbgHT.J3ypsk8i3BpTR0my'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
